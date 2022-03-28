@@ -17,7 +17,6 @@ c +=  5
 d += 1
 print(c, d)
 
-
 # Comparison Operators in Python
 print("Demonstrating Comparison Operators in Python")
 e = 6
